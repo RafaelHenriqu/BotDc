@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    border-color: transparent;
+}
+body{
+    background-color: #191920;
+}
+section{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    margin: auto;
+    text-align: center;
+}
+form{
+    width:90%;
+    margin: auto;
+}
+
+#Email{
+    width: 50%;
+    height: 3vh;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #222222;
+    color: #ffff;
+}
+#Email::placeholder{
+    color: #ffff;
+}
+
+
+#Mensagem{
+    width: 90%;
+    background-color: #222222;
+    height: 20vh;
+    border-radius: 5px;
+    color: #ffffff;
+    text-indent: .5vh;
+    font-size: 20px;
+    resize: none;
+    text-align: center;
+    padding: 10px;
+
+}
+#Mensagem::placeholder{color: #ffffff;}
+
+input[type="submit"]{
+    width: 25%;
+    height: 3vh;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #222222;
+    color: #ffffff;
+}
