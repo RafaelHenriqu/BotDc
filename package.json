@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "@discordjs/voice": "^0.17.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord": "^0.8.2",
     "discord.js": "^14.16.2",
     "express": "^4.21.0",
-    "mysql2": "^3.11.3",
-    "universal-code": "^1.0.0",
-    "ytdl": "^1.4.1",
-    "ytdl-core": "^4.11.5"
+    "mysql2": "^3.11.3"
   }
 }
