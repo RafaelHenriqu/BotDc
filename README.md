@@ -1,7 +1,7 @@
 # README do Projeto Yoky
 
 <div align="center" style="display: flex; justify-content: center;" title="Yoky">
-    <a href="https://discord.com/oauth2/authorize?client_id=1300626750895816796&permissions=8&integration_type=0&scope=bot"><img src="./Imgs/Readme photo/1.jpg" style="border-radius: 5px; width: 100px;"></a>
+    <a href=""><img src="./Imgs/Readme photo/1.jpg" style="border-radius: 5px; width: 100px;"></a>
 </div>
 
 ## Descrição
